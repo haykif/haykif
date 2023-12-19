@@ -1,5 +1,5 @@
 - 👋🏻 Hi, I’m @haykif
-- 👀 I’m interested in IT, networks, programing: Python and Java-Script, HTML - CSS and Cybersecurity.
+- 👀 I’m interested in IT, networks, programing: Python, C++/C and Java-Script, HTML - CSS and Cybersecurity.
 - 🌱 I’m currently learning Networks configuration and the first step of the Cybersecurity.
 - 💞️ I’m looking to collaborate with anyone. 💔
 - 📫 How to reach me: You can not reach me... ❤️‍🔥
