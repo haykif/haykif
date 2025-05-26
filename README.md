@@ -1,4 +1,4 @@
-![Tes stats GitHub](https://github-readme-stats.vercel.app/api?username=haykif&show_icons=true&theme=radical&hide=prs,issues)
+![Tes stats GitHub](https://github-readme-stats.vercel.app/api?username=haykif&show_icons=true&theme=tokyonight&hide=prs,issues)
 
 - 👋🏻 Hi, I’m @haykif
 - 👀 I’m interested in IT, networks, programing: Python, C++/C and Java-Script, HTML - CSS and Cybersecurity.
