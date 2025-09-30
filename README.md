@@ -1,10 +1,40 @@
-![Tes stats GitHub](https://github-readme-stats.vercel.app/api?username=haykif&show_icons=true&theme=tokyonight&hide=prs,issues)
+# 👋 Hi, I'm haykif!
 
-- 👋🏻 Hi, I’m @haykif
-- 👀 I’m interested in IT, networks, programing: Python, C++/C and Java-Script, HTML - CSS and Cybersecurity.
-- 🌱 I’m currently learning Networks configuration and the first step of the Cybersecurity.
-- 💞️ I’m looking to collaborate with anyone. 💔
-- 📫 How to reach me: You can not reach me... ❤️‍🔥
+Welcome to my GitHub! I’m passionate about building creative, practical solutions and exploring new technologies. Here’s a glimpse into my public work and projects.
+
+## 🚀 Featured Projects
+
+- [Crunchyroll for Mac](https://github.com/haykif/Crunchyroll-for-mac)  
+  Adds a Safari-based Crunchyroll app shortcut directly into your Mac's Applications folder, so it appears in Launchpad just like a native app.  
+  Built with Swift.
+
+- [CA-25](https://github.com/haykif/CA-25)  
+  A PHP-based project—Projet CA-25—licensed under MIT. Created to solve modern challenges with practical code and open collaboration.
+
+## 🌱 What I'm Up To
+
+I love experimenting, learning, and sharing my creations. My repos are always evolving with new features and ideas—check them out for the latest updates!
+
+## 📊 GitHub Stats & Analytics
+
+![haykif's GitHub stats](https://github-readme-stats.vercel.app/api?username=haykif&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=haykif&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haykif&layout=compact&theme=tokyonight)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=haykif&theme=tokyonight)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haykif&theme=tokyonight)
+
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=haykif&theme=tokyonight)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=haykif)
+
+
+## 📫 Get in Touch
+
+Interested in collaborating or have a question? Reach out via GitHub Issues or Discussions in any of my projects.
 
 <!---
 haykif/haykif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
