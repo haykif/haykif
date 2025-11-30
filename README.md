@@ -17,17 +17,11 @@ I love experimenting, learning, and sharing my creations. My repos are always ev
 
 ## 📊 GitHub Stats & Analytics
 
-![haykif's GitHub stats](https://github-readme-stats.vercel.app/api?username=haykif&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=haykif&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haykif&layout=compact&theme=tokyonight)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=haykif&theme=tokyonight)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haykif&theme=tokyonight)
-
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=haykif&theme=tokyonight)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=haykif)
 
