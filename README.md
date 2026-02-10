@@ -23,13 +23,15 @@ I love experimenting, learning, and sharing my creations. My repos are always ev
 
 ![My Contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haykif&theme=2077)
 
-| Top Languages by Repo | Top Languages by Commit |
-|---|---|
-| ![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haykif&theme=blue_green) | ![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haykif&theme=blue_green) |
+<div style="display:flex; gap:10px; flex-wrap:wrap; align-items:flex-start;">
+  <img alt="Top Languages by Repo" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haykif&theme=blue_green" />
+  <img alt="Top Languages by Commit" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haykif&theme=blue_green" />
+</div>
 
-| Stats | My Commits |
-|---|---|
-| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=haykif&theme=blue_green) | ![My Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haykif&theme=blue_green&utcOffset=8) |
+<div style="display:flex; gap:10px; flex-wrap:wrap; align-items:flex-start; margin-top:10px;">
+  <img alt="Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=haykif&theme=blue_green" />
+  <img alt="My Commits" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haykif&theme=blue_green&utcOffset=8" />
+</div>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=haykif)
 
