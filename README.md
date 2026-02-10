@@ -17,9 +17,19 @@ I love experimenting, learning, and sharing my creations. My repos are always ev
 
 ## GitHub Stats & Analytics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=haykif&theme=dark&hide_border=true&border_radius=10&card_width=494)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=haykif&theme=blue-green&hide_border=true&border_radius=10&card_width=494)](https://git.io/streak-stats)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haykif&theme=tokyonight)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/haykif?cardType=level-alternate&theme=blue-green&fontFamily=The%20Girl%20Next%20Door&preferLogin=false)](https://git.io/awesome-stats-card)
+
+![My Contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haykif&theme=2077)
+
+![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haykif&theme=blue_green)
+
+![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haykif&theme=blue_green)
+
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=haykif&theme=blue_green)
+
+![My Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haykif&theme=blue_green&utcOffset=8)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=haykif)
 
