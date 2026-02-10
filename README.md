@@ -17,7 +17,7 @@ I love experimenting, learning, and sharing my creations. My repos are always ev
 
 ## GitHub Stats & Analytics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=haykif&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
+[![GitHub Streak](https://streak-stats.demolab.com?user=haykif&theme=dark&hide_border=true&border_radius=10&card_width=494)](https://git.io/streak-stats)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haykif&theme=tokyonight)
 
