@@ -17,9 +17,9 @@ I love experimenting, learning, and sharing my creations. My repos are always ev
 
 ## GitHub Stats & Analytics
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/haykif?cardType=level-alternate&theme=blue-green&hide_border=true&fontFamily=The%20Girl%20Next%20Door&preferLogin=false)](https://git.io/awesome-stats-card)
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/haykif?cardType=level-alternate&theme=blue-green&hide_border=true&fontFamily=The%20Girl%20Next%20Door&preferLogin=false)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=haykif&theme=blue-green&hide_border=true&border_radius=10&card_width=494)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=haykif&theme=blue-green&hide_border=true&border_radius=10&card_width=494)
 
 ![My Contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haykif&theme=2077)
 
