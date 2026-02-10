@@ -23,13 +23,13 @@ I love experimenting, learning, and sharing my creations. My repos are always ev
 
 ![My Contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haykif&theme=2077)
 
-![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haykif&theme=blue_green)
+| Top Languages by Repo | Top Languages by Commit |
+|---|---|
+| ![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haykif&theme=blue_green) | ![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haykif&theme=blue_green) |
 
-![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haykif&theme=blue_green)
-
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=haykif&theme=blue_green)
-
-![My Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haykif&theme=blue_green&utcOffset=8)
+| Stats | My Commits |
+|---|---|
+| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=haykif&theme=blue_green) | ![My Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haykif&theme=blue_green&utcOffset=8) |
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=haykif)
 
