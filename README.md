@@ -8,7 +8,7 @@ Welcome to my GitHub! I’m passionate about building creative, practical soluti
 	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></code></td>
 	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ssh.png" alt="SSH" title="SSH"/></code></td>
 	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code></td>
-	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=github&size=96&theme=dark&animationDuration=0.7&color=%23ffffff" alt="GitHub" title="GitHub"/></code></td>
+	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=github&size=96&reverseBackground=true" alt="GitHub" title="GitHub"/></code></td>
 	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" alt="PyCharm" title="PyCharm"/></code></td>
 	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/xcode.png" alt="Xcode" title="Xcode"/></code></td>
 	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code></td>
@@ -36,7 +36,7 @@ Welcome to my GitHub! I’m passionate about building creative, practical soluti
 	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" alt="GCP" title="GCP"/></code></td>
 	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Microsoft Azure" title="Microsoft Azure"/></code></td>
 	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/matlab.png" alt="MATLAB" title="MATLAB"/></code></td>
-	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=unrealengine&size=96&theme=dark&color=%23ffffff" alt="Unreal Engine" title="Unreal Engine"/></code></td>
+	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=unrealengine&size=96&reverseBackground=true" alt="Unreal Engine" title="Unreal Engine"/></code></td>
   	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=vmware&size=96&animationDuration=0.7&reverseBackground=true" alt="VMware" title="VMware"/></code></td>
   	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=virtualbox&size=96&animationDuration=0.7&reverseBackground=true" alt="VirtualBox" title="VirtualBox"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=apple&size=96&animationDuration=0.7&reverseBackground=true" alt="macOS" title="macOS"/></code></td>
@@ -49,7 +49,7 @@ Welcome to my GitHub! I’m passionate about building creative, practical soluti
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=kalilinux&size=96&animationDuration=0.2&reverseBackground=true" alt="Kali Linux" title="Kali Linux"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=raspberrypi&size=96&animationDuration=0.7&reverseBackground=true" alt="Raspberri Pi" title="Raspberri Pi"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=leaflet&size=96&animationDuration=0.7&reverseBackground=true" alt="Leaflet" title="Leaflet"/></code></td>
-  <td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=homeassistant&size=96&animationDuration=0.7&reverseBackground=true" alt="Home Assistant" title="Home Assistant"/></code></td>
+	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=homeassistant&size=96&animationDuration=0.7&reverseBackground=true" alt="Home Assistant" title="Home Assistant"/></code></td>
 </div>
 
 ## Featured Projects
