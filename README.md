@@ -7,7 +7,7 @@ Welcome to my GitHub! I’m passionate about building creative, practical soluti
 <div align="center">
 	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></code></td>
 	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ssh.png" alt="SSH" title="SSH"/></code></td>
-	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code></td>
+	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=git&size=96&reverseBackground=true" alt="Git" title="Git"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=github&size=96&reverseBackground=true" alt="GitHub" title="GitHub"/></code></td>
 	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" alt="PyCharm" title="PyCharm"/></code></td>
 	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/xcode.png" alt="Xcode" title="Xcode"/></code></td>
