@@ -14,8 +14,8 @@ Welcome to my GitHub! I’m passionate about building creative, practical soluti
 	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=eclipseide&size=96&animationDuration=0.7&reverseBackground=true" alt="eclipse" title="eclipse"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=jupyter&size=96&animationDuration=0.7&reverseBackground=true" alt="Jupyter Notebook" title="Jupyter Notebook"/></code></td>
-	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=html5&size=96&animationDuration=0.7" alt="HTML" title="HTML"/></code></td>
-	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=css3&size=96&animationDuration=0.7" alt="CSS" title="CSS"/></code></td>
+	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=html5&size=96&reverseBackground=true" alt="HTML" title="HTML"/></code></td>
+	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=css3&size=96&reverseBackground=true" alt="CSS" title="CSS"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=wordpress&size=96&animationDuration=0.7&reverseBackground=true" alt="Wordpress" title="Wordpress"/></code></td>
 	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_design.png" alt="Material Design" title="Material Design"/></code></td>
 	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva"/></code></td>
