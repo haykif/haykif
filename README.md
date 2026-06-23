@@ -5,19 +5,14 @@ Welcome to my GitHub! I’m passionate about building creative, practical soluti
 ## Techs I learned
 
 <div align="center">
-	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></code></td>
 	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ssh.png" alt="SSH" title="SSH"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=git&size=96&reverseBackground=true" alt="Git" title="Git"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=github&size=96&reverseBackground=true" alt="GitHub" title="GitHub"/></code></td>
-	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" alt="PyCharm" title="PyCharm"/></code></td>
 	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/xcode.png" alt="Xcode" title="Xcode"/></code></td>
 	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code></td>
-	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=eclipseide&size=96&animationDuration=0.7&reverseBackground=true" alt="eclipse" title="eclipse"/></code></td>
-	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=jupyter&size=96&animationDuration=0.7&reverseBackground=true" alt="Jupyter Notebook" title="Jupyter Notebook"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=html5&size=96&reverseBackground=true" alt="HTML" title="HTML"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=css3&size=96&reverseBackground=true" alt="CSS" title="CSS"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=wordpress&size=96&animationDuration=0.7&reverseBackground=true" alt="Wordpress" title="Wordpress"/></code></td>
-	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_design.png" alt="Material Design" title="Material Design"/></code></td>
 	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva"/></code></td>
 	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=cplusplus&size=96&animationDuration=0.7&reverseBackground=true" alt="C++" title="C++"/></code></td>
@@ -33,9 +28,9 @@ Welcome to my GitHub! I’m passionate about building creative, practical soluti
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=sqlite&size=96&animationDuration=0.7&reverseBackground=true" alt="SQLite" title="SQLite"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=mariadb&size=96&animationDuration=0.7&reverseBackground=true" alt="MariaDB" title="MariaDB"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=gnubash&size=96&animationDuration=0.7" alt="bash" title="bash"/></code></td>
-	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" alt="GCP" title="GCP"/></code></td>
-	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Microsoft Azure" title="Microsoft Azure"/></code></td>
-	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/matlab.png" alt="MATLAB" title="MATLAB"/></code></td>
+	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=openai&size=142&reverseBackground=true" alt="ChatGPT" title="ChatGPT"/></code></td>
+	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=googlegemini&size=96&reverseBackground=true" alt="Gemini" title="Gemini"/></code></td>
+	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=githubcopilot&size=144&reverseBackground=true" alt="Copilot" title="Copilot"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=unrealengine&size=96&reverseBackground=true" alt="Unreal Engine" title="Unreal Engine"/></code></td>
   	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=vmware&size=96&animationDuration=0.7&reverseBackground=true" alt="VMware" title="VMware"/></code></td>
   	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=virtualbox&size=96&animationDuration=0.7&reverseBackground=true" alt="VirtualBox" title="VirtualBox"/></code></td>
@@ -45,7 +40,7 @@ Welcome to my GitHub! I’m passionate about building creative, practical soluti
   	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=popos&size=96" alt="Popos" title="Pop!_OS"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=debian&size=96&animationDuration=0.2&reverseBackground=true" alt="Debian" title="Debian"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=ubuntu&size=96&animationDuration=0.7&reverseBackground=true" alt="Ubuntu" title="Ubuntu"/></code></td>
-	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=elementary&size=96&animationDuration=0.7&reverseBackground=true" alt="elementary OS" title="elementary OS"/></code></td>
+	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=zorin&size=144&reverseBackground=true" alt="Zorin OS" title="Zorin OS"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=kalilinux&size=96&animationDuration=0.2&reverseBackground=true" alt="Kali Linux" title="Kali Linux"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=raspberrypi&size=96&animationDuration=0.7&reverseBackground=true" alt="Raspberri Pi" title="Raspberri Pi"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=leaflet&size=96&animationDuration=0.7&reverseBackground=true" alt="Leaflet" title="Leaflet"/></code></td>
