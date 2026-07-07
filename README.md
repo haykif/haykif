@@ -1,6 +1,12 @@
-# Hi, I'm haykif!
+# Hi, I'm Haykif!
 
 Welcome to my GitHub! I’m passionate about building creative, practical solutions and exploring new technologies. Here’s a glimpse into my public work and projects.
+
+<div align="center">
+	
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=haykif&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+
+</div>
 
 ## Techs I learned
 
@@ -12,9 +18,9 @@ Welcome to my GitHub! I’m passionate about building creative, practical soluti
 	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=html5&size=96&reverseBackground=true" alt="HTML" title="HTML"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=css3&size=96&reverseBackground=true" alt="CSS" title="CSS"/></code></td>
+	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=wordpress&size=96&animationDuration=0.7&reverseBackground=true" alt="Wordpress" title="Wordpress"/></code></td>
 	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva"/></code></td>
-	<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=cplusplus&size=96&animationDuration=0.7&reverseBackground=true" alt="C++" title="C++"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=qt&size=96&animationDuration=0.2&reverseBackground=true" alt="Qt" title="Qt"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=latex&size=96&animationDuration=0.7&reverseBackground=true" alt="LaTeX" title="LaTeX"/></code></td>
@@ -28,6 +34,7 @@ Welcome to my GitHub! I’m passionate about building creative, practical soluti
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=sqlite&size=96&animationDuration=0.7&reverseBackground=true" alt="SQLite" title="SQLite"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=mariadb&size=96&animationDuration=0.7&reverseBackground=true" alt="MariaDB" title="MariaDB"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=gnubash&size=96&animationDuration=0.7" alt="bash" title="bash"/></code></td>
+	<td><code><img width="50" src="https://my-digital-collection.netlify.app/images/powershell.svg" alt="Powershell" title="Powershell"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=openai&size=142&reverseBackground=true" alt="ChatGPT" title="ChatGPT"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=googlegemini&size=96&reverseBackground=true" alt="Gemini" title="Gemini"/></code></td>
 	<td><code><img width="50" src="https://www.readmecodegen.com/api/social-icon?name=githubcopilot&size=144&reverseBackground=true" alt="Copilot" title="Copilot"/></code></td>
@@ -62,17 +69,20 @@ I love experimenting, learning, and sharing my creations. My repos are always ev
 
 ## GitHub Stats & Analytics
 
-![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Haykif?cardType=level-alternate&theme=blue-green&fontFamily=The%20Girl%20Next%20Door&preferLogin=false)
+<div style="display:flex; gap:10px; flex-wrap:wrap; align-items:flex-start; margin-top:10px;">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=haykif&theme=blue-green&hide_border=true&border_radius=10&card_width=494)
+<img alt="My Awesome Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Haykif?cardType=level-alternate&theme=blue-green&fontFamily=The%20Girl%20Next%20Door&preferLogin=false" />
+
+<img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=haykif&theme=blue-green&hide_border=true&border_radius=10&card_width=494" />
+
+</div>
 
 ![My Contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haykif&theme=2077)
 
-<div style="display:flex; gap:10px; flex-wrap:wrap; align-items:flex-start;">
+<div style="display:flex; gap:10px; flex-wrap:wrap; align-items:flex-start; margin-top:10px;">
   <img alt="Top Languages by Repo" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haykif&theme=blue_green" />
   <img alt="Top Languages by Commit" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haykif&theme=blue_green" />
 </div>
-
 <div style="display:flex; gap:10px; flex-wrap:wrap; align-items:flex-start; margin-top:10px;">
   <img alt="Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=haykif&theme=blue_green" />
   <img alt="My Commits" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haykif&theme=blue_green&utcOffset=8" />
